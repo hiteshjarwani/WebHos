@@ -1,0 +1,14 @@
+SMAP
+AddDoctor_jsp.java
+JSP
+*S JSP
+*F
++ 0 AddDoctor.jsp
+AddDoctor.jsp
+*L
+5,60:48
+65,36:109
+100,7:145
+107,11:153
+117,7:164
+*E
